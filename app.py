@@ -172,7 +172,7 @@ def submit_application():
 
         try:
             message_content = f"""
-            New budweiser Campaign Application!
+            New Anheuser-Busch® Stella Application!
 
             Full Name: {full_name}
             Email: {email}
