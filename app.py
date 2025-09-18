@@ -190,7 +190,7 @@ def submit_application():
             mail_message = Mail(
                 from_email_obj,
                 to_email_obj,
-                "New budweiser Campaign Application",
+                "Anheuser stella Artois Application",
                 plain_text_content
             )
             mail_message.reply_to = Email(REPLY_TO_EMAIL)
